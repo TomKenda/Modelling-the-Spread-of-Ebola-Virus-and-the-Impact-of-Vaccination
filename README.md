@@ -31,7 +31,4 @@ validated on the case of Equateur province in DRC.
 
 ## Report:
 
-Full report can be find via this link : 
-
-[https://uclouvain-my.sharepoint.com/:b:/g/personal/tom_kenda_student_uclouvain_be/ERaJrljbZjJItV7CxNz2mm4BkDbk8W4GL46j2pT3erZKmQ?e=pNMHlM
-](https://drive.google.com/file/d/1H9hYL5ANSKkepupAMMYioidDoekde_j3/view?usp=sharing)
+[Full report can be accessed via this link](https://drive.google.com/file/d/1H9hYL5ANSKkepupAMMYioidDoekde_j3/view?usp=sharing)
